@@ -19,7 +19,7 @@
 	
 //preprocessor commands
 #include "process.h"
-#include <pthread.h>
+#include "pthread.h"
 #include <string.h>
 #include <stdio.h>
 #include "file_manager.h"
